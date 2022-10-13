@@ -1,9 +1,10 @@
 /**/
 
 html,body {
-  background: white;
+  background: rgb(69, 156, 214);
   height: 100%;
   width : 100%;
+  
 }
 
 .out {
@@ -13,6 +14,7 @@ html,body {
   margin: 5px;
   height: 40%;
   background: white;
+
 }
 
 #btn {
